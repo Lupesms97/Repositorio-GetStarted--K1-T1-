@@ -94,4 +94,4 @@ Envia todos os commits do branch local para o GitHub
 ## $ git pull
 Baixa o histórico e incorpora as mudança
 
-Esse resumo foi tirado desse {site}[https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf]
+Esse resumo foi tirado desse [site:]{https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf}
